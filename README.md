@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Chau, a student at [HUET](http://huet.hueuni.edu.vn/)🚀</div>  
+### <div align="center">I'm Chau, a student at [HUET](http://huet.hueuni.edu.vn/🍊</div>  
   
 
-- 🌱 I’m currently Data science and learning AI 
+- 👨‍💻 I’m currently Data science and learning AI 
    
   
 
